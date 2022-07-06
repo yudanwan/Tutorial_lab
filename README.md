@@ -2,7 +2,7 @@
 
 In Lab computer, there are one root user(zou_lab) and four sub users (private).
 
-Pycharm and Teamviewer are ready for all users. Please check whether they are work. 
+Pycharm and Teamviewer are ready for all users. Please check whether they work. 
 
 In root user account, path /home/apps are public files, sub users could enter cd /home/zou_lab/apps in terminal to visit the files. 
 
