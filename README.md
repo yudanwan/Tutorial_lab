@@ -18,6 +18,10 @@ cd /home/zou_lab/apps/pycharm/bin # installation path
 sh pycharm.sh
 
 
+Error: Computer won't wake up after long sleep
+Solve:...
+
+
 
 
 
