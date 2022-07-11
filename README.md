@@ -17,11 +17,16 @@ cd /home/zou_lab/apps/pycharm/bin # installation path
 
 sh pycharm.sh
 
+Create softwaves desktop shortcut.
+Failed...
 
 Error: Computer won't wake up after long sleep
-Solve:...
+Solved: Tutorial is in programming.
 
+Error: Teamviewer could not control after laptap sleep. 
+Solved: Tutorial is in programming.
 
+nano termial 
 
 
 
